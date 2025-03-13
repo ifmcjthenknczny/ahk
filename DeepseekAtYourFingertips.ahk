@@ -1,0 +1,1 @@
+﻿AppsKey::Run, powershell -NoExit -Command "ollama run deepseek-coder-v2"
